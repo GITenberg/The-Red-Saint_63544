@@ -1,0 +1,26 @@
+_repo: The-Red-Saint_63544
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Deeping, Warwick
+    alias: Deeping, George Warwick
+    birthdate: 1877
+    deathdate: 1950
+    gutenberg_agent_id: '41615'
+    url: http://www.gutenberg.org/2009/agents/41615
+    wikipedia: https://en.wikipedia.org/wiki/Warwick_Deeping
+description: ''
+gutenberg_issued: '2020-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Barons'' War, 1263-1267 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Red Saint
+url: http://www.gutenberg.org/ebooks/63544
